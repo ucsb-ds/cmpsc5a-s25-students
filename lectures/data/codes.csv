@@ -1,0 +1,146 @@
+collegeCode,deptCode,inactive,relatedDeptCode,subjectCode,subjectTranslation
+L&S,ANTH,False,,ANTH,Anthropology
+CRST,CRSTU,False,,ART  CS,Art (Creative Studies)
+L&S,ARTHI,False,,ARTHI,Art History
+L&S,ART,False,,ARTST,Art Studio
+L&S,ASAM,False,,AS AM,Asian American Studies
+L&S,PHYS,False,,ASTRO,Astronomy
+CRST,CRSTU,False,,BIOL CS,Biology (Creative Studies)
+L&S,BLKST,False,,BL ST,Black Studies
+L&S,CLIT,False,,C LIT,Comparative Literature
+ENGR,CNENG,False,,CH E,Chemical Engineering
+L&S,CHST,False,,CH ST,Chicano Studies
+CRST,CRSTU,False,,CHEM CS,Chemistry (Creative Studies)
+L&S,EALCS,False,,CHIN,Chinese
+L&S,CLASS,False,,CLASS,Classics
+ENGR,CMPSC,False,,CMPSC,Computer Science
+L&S,COMM,False,,COMM,Communication
+L&S,THTDA,False,,DANCE,Dance
+ENGR,ECE,False,,ECE,Electrical Computer Engineering
+L&S,ECON,False,,ECON,Economics
+GSE,EDUC,False,,ED,Education
+GSE,EDUC,False,,ED   E,Education: English
+GSE,EDUC,False,,ED   M,Mathematics
+GSE,EDUC,False,,ED   S,Science
+L&S,ENGL,False,,ENGL,English
+ENGR,ENGSC,False,,ENGR,Engineering Sciences
+L&S,ENVST,False,,ENV S,Environmental Studies
+L&S,FR&IT,False,,FR,French
+CRST,CRSTU,False,,GEN SCS,General Studies (Creative Studies)
+L&S,GEOG,False,,GEOG,Geography
+L&S,GERSL,False,,GER,German
+L&S,CLASS,False,,GREEK,Greek
+L&S,RELST,False,,HEB,Hebrew
+L&S,HIST,False,,HIST,History
+L&S,INT,False,,INT,Interdisciplinary
+L&S,FR&IT,False,,ITAL,Italian
+L&S,EALCS,False,,JAPAN,Japanese
+L&S,LAIS,False,,LAIS,Latin American and Iberian Studies
+L&S,CLASS,False,,LATIN,Latin
+L&S,LING,False,,LING,Linguistics
+CRST,CRSTU,False,,LIT  CS,Literature (Creative Studies)
+L&S,MATH,False,,MATH,Mathematics
+CRST,CRSTU,False,,MATH CS,Mathematics (Creative Studies)
+ENGR,MATRL,False,,MATRL,Materials
+ENGR,ME,False,,ME,Mechanical Engineering
+L&S,MDVST,False,,ME ST,Medieval Studies
+L&S,MILSC,False,,MS,Military Science
+L&S,MUSIC,False,,MUS,Music
+CRST,CRSTU,False,,MUS  CS,Music (Creative Studies)
+L&S,MUSIC,False,,MUS A,Music Performance Laboratories
+L&S,PHIL,False,,PHIL,Philosophy
+L&S,PHYS,False,,PHYS,Physics
+CRST,CRSTU,False,,PHYS CS,Physics (Creative Studies)
+L&S,POLS,False,,POL S,Political Science
+L&S,SP&PT,False,,PORT,Portuguese
+L&S,PSY,False,,PSY,Psychology
+L&S,RENST,False,,RENST,Renaissance Studies
+L&S,RELST,False,,RG ST,Religious Studies
+L&S,GERSL,False,,RUSS,Russian
+L&S,SOC,False,,SOC,Sociology
+L&S,SP&PT,False,,SPAN,Spanish
+L&S,STATS,False,,PSTAT,Statistics & Applied Probability
+L&S,SPCH,False,,SHS,Speech & Hearing Sciences
+GSE,CNCSP,False,EDUC,CNCSP,"Counseling, Clinical, School Psychology"
+CRST,CRSTU,False,,INT  CS,Interdisciplinary (Creative Studies)
+L&S,THTDA,False,,THTR,Theater
+L&S,FEMST,False,,FEMST,Feminist Studies
+L&S,EALCS,False,,KOR,Korean
+L&S,EALCS,False,,EACS,East Asian Cultural Studies
+CRST,CRSTU,False,,CMPSCCS,Computer Science (Creative Studies)
+L&S,ERTSC,False,,EARTH,Earth Science
+GSE,EDUC,False,,ED   A,Visual Art
+GSE,EDUC,False,,ED   HSS,History & Social Science
+GSE,EDUC,False,,ED   L,Literacy
+GSE,EDUC,False,,ED   LA,Language Arts
+GSE,EDUC,False,,ED   WL,World Language
+L&S,MCDB,False,,MCDB W,"Molecular,Cellular,Develop. Bio (Online)"
+L&S,CHEM,False,,CHEM W,Chemistry and Biochemistry (Online)
+L&S,GEOG,False,,GEOG W,Geography (Online)
+L&S,STATS,False,,PSTATW,Stats & Applied Probability (Online)
+ENGR,TMP,False,,TMP,Technology Management
+L&S,WRIT,False,,WRIT,Writing
+L&S,ART,False,,ART,Art
+ESM,ESM,False,,ESM,Environmental Science & Management
+L&S,EEMB,False,,EEMB,"Ecology, Evolution & Marine Biology"
+L&S,MCDB,False,,MCDB,"Molecular, Cellular & Develop. Biology"
+L&S,GLOBL,False,,GLOBL,Global Studies
+L&S,MARSC,False,,MARSC,Marine Science
+L&S,GERSL,False,,SLAV,Slavic
+L&S,GLOBL,False,,GPS,Global Peace and Security
+L&S,MAT,False,,MAT,Media Arts and Technology
+L&S,CHEM,False,,CHEM,Chemistry and Biochemistry
+L&S,RELST,False,,MES,Middle East Studies
+L&S,ESS,False,,ES   1-,Exercise Sport
+L&S,ESS,False,,ESS,Exercise & Sport Studies
+L&S,THTDA,False,,DANCEW,Dance (Online)
+L&S,PSY,False,,DYNS,Dynamical Neuroscience
+L&S,ERTSC,False,,EARTHW,Earth Science (Online)
+L&S,WRIT,False,,WRIT W,Writing (Online)
+L&S,ECON,False,,ECON W,Economics (Online)
+L&S,FEMST,False,,FEMSTW,Feminist Studies (Online)
+L&S,EEMB,False,,EEMB W,"Ecology, Evol. & Marine Biology (Online)"
+GSE,EDUC,False,,ED   IA,Education: Industrial Technology Arts
+L&S,THTDA,False,,THTR W,Theater (Online)
+L&S,SP&PT,False,,SPAN W,Spanish (Online)
+ENGR,ME,False,,ME   W,Mechanical Engineering (Online)
+ENGR,ENGSC,False,,ENGR W,Engineering Sciences (Online)
+GRAD,GRDIV,False,,GRAD,Graduate Division
+L&S,POLS,False,,POL SW,Political Science (Online)
+L&S,HIST,False,,HIST W,History (Online)
+L&S,ESS,False,,ESS  W,Excercise & Sport Studies (Online)
+L&S,INT,False,,INT  W,Interdisciplinary (Online)
+L&S,COMM,False,,COMM W,Communication (Online)
+GSE,EDUC,False,,ED   W,Education (Online)
+L&S,FLMST,False,,FAMST,Film and Media Studies
+CRST,CRSTU,False,,CMPTGCS,Computing (Creative Studies)
+CRST,CRSTU,False,,W&L  CS,Writing & Literature (Creative Studies)
+ENGR,CNENG,False,,CH E W,Chemical Engineering (Online)
+ESM,ESM,False,,EDS,Environmental Data Science
+L&S,ARTHI,False,,ARTHIW,Art History (Online)
+L&S,FLMST,False,,FAMSTW,Film and Media Studies (Online)
+ENGR,CMPSC,False,,CMPSCW,Computer Science (Online)
+GSE,CNCSP,False,EDUC,CNCSPW,"Counseling, Clinical, School Psy(Online)"
+L&S,LING,False,,LING W,Linguistics (Online)
+L&S,PHYS,False,,PHYS W,Physics (Online)
+ENGR,BENG,False,,BIOE,Biological Engineering
+L&S,ENVST,False,,ENV SW,Environmental Studies (Online)
+L&S,ESS,False,,ES,Exercise Sport
+L&S,SOC,False,,SOC  W,Sociology (Online)
+L&S,ASAM,False,,AS AMW,Asian American Studies (Online)
+L&S,EALCS,False,,JAPANW,Japanese (Online)
+CRST,CRSTU,False,,MARINCS,Marine Science (Creative Studies)
+L&S,PHYS,False,,ASTROW,Astronomy (Online)
+L&S,EALCS,False,,CHIN W,Chinese (Online)
+L&S,RELST,False,,RG STW,Religious Studies (Online)
+L&S,CHST,False,,CH STW,Chicano Studies (Online)
+L&S,PSY,False,,PSY  W,Psychology (Online)
+L&S,SP&PT,False,,PORT W,Portuguese (Online)
+L&S,POLS,False,,POL SH,Political Science (Hybrid)
+CRST,CRSTU,False,,W&L  CSW,Writing & Lit(Creative Studies) (Online)
+L&S,BMSE,False,,IQB,Interdis. Program in Quantitative Biosci
+GRAD,GRDIV,False,,GRAD W,Graduate Division (Online)
+L&S,GLOBL,False,,GLOBLW,Global Studies (Online)
+L&S,LAIS,False,,LAIS W,Latin American and Iberian Stds (Online)
+L&S,CLIT,False,,C LITW,Comparative Literature
+L&S,EALCS,False,,KOR  W,Korean (Online)
